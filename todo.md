@@ -1,0 +1,1 @@
+- Chapter 3 Images: pg. 81-82, 31imagedemo.py
